@@ -1,0 +1,32 @@
+css
+* {
+  max-width: 1000px;
+  margin: auto;
+}
+<center>This text will be centered.
+<p1>So will this paragraph.</p1></center>
+
+div.a {
+  font-size: 50px;
+}
+
+div.b {
+  font-size: 200%;
+}
+
+div.c {
+  font-size: 300%;
+}
+
+body {
+  background-color: coral;
+  animation: colour-me-in 10s;
+}
+@keyframes colour-me-in {
+  0% {
+    background: black;
+  }
+  100% {
+    Background: coral;
+  }
+}
