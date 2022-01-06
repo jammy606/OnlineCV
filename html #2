@@ -1,0 +1,20 @@
+<html>
+<header class="nav centre">
+  <p class="logo">LOGO</p>
+  <input type="checkbox" name="" class="checkBtn"/>
+  <ol class="centre">
+    <a href="#"><li>About</li></a>
+    <a href="#"><li>Education</li></a>
+    <a href="#"><li>Experience</li></a>
+    <a href="#"><li>Prjoects</li></a>
+    <a href="#"><li>Contact</li></a>
+  </ol>
+</header>
+<section class="main">
+  <div class="box">
+    <h1>James Williams</h1>
+    <p> Aspiring AWS Architect</p>
+    <button class="btn">About </button>
+  </div>
+  <img src="profile.jpg" alt="">
+</section>
